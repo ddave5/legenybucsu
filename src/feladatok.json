@@ -1,0 +1,75 @@
+[{
+    "id": 1,
+    "title": "A szomjas",
+    "feladat": "Te iszol."
+},
+{
+    "id": 2,
+    "title": "Az ökör sem iszik magában",
+    "feladat": "Válassz ki valakit és vele iszol."
+},
+{
+    "id": 3,
+    "title": "A veterán",
+    "feladat": "Igyanak azok, akik több, mint 2 éve vannak kapcsolatban!"
+},
+{
+    "id": 4,
+    "title": "Az ivópajti",
+    "feladat": "Válassz ki valakit! A következő alkalommal ha ő iszik, neked is innod kell!"
+},
+{
+    "id": 5,
+    "title": "Még egy kérdés!",
+    "feladat": "A következő 5 pörgetésig ha valaki válaszol a kérdésedre, akkor innia kell."
+},
+{
+    "id": 6,
+    "title": "Bónusz szó!",
+    "feladat": "Találj ki egy szót. Az egész leánybúcsú ideje alatt ha valaki kimondja ezt a szót, akkor innia kell."
+},
+{
+    "id": 7,
+    "title": "Cápatámadás",
+    "feladat": "Akinek utoljára marad a talpa a földön, az iszik."
+},
+{
+    "id": 8,
+    "title": "A főispán",
+    "feladat": "Találj ki egy szabályt. Ha valaki megszegi a következő 3 pörgetésig a szabályt, annak innia kell."
+},
+{
+    "id": 9,
+    "title": "A medúza",
+    "feladat": "A következő 5 pörgetésig bárki a szemedbe néz, annak innia kell."
+},
+{
+    "id": 10,
+    "title": "A señorita",
+    "feladat": "Kérd egy idegen férfi telefonszámát, majd 1 óra múlva írj neki egy üzenetet, hogy 'Már hiányzol!'."
+},
+{
+    "id": 11,
+    "title": "Az ünnepelt",
+    "feladat": "A vőlegény iszik."
+},
+{
+    "id": 12,
+    "title": "Az antistréber",
+    "feladat": "Aki utoljára emeli fel a kezét, az iszik."
+},
+{
+    "id": 13,
+    "title": "Az újonc",
+    "feladat": "Mindenki, aki nincs kapcsolatban vagy 2 évnél fiatalabb kapcsolatban van iszik."
+},
+{
+    "id": 14,
+    "title": "Nagy ölelés!",
+    "feladat": "Aki utoljára öleli meg a vőlegényt iszik."
+},
+{
+    "id": 15,
+    "title": "Egy mindenkiért, mindenki egyért!",
+    "feladat": "Mindenki iszik."
+} ]
