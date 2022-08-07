@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import TaskList from './feladatok.json';
+import Footer from './footer/Footer';
 
 function App() {
 
@@ -34,6 +35,7 @@ function App() {
           </div>
         </>
       )}
+      <Footer/>
     </React.Fragment>
   );
 }
