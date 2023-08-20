@@ -47,7 +47,8 @@ button{
   font-size: 16px;
   font-weight: 500;
   border-radius: 25px;
-  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5); 
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  user-select: none;
 }
 
 .infoButton{
@@ -154,5 +155,9 @@ button{
     padding: .25rem .5rem;
     top: 2%;
     right: 5%;
+  }
+
+  .modal__container .word__list {
+    font-size: 18px;
   }
 }
